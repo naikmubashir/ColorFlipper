@@ -1,13 +1,14 @@
  
  *{
-
+    margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  }
  nav{
     background-color:#AAC4FF;
     display: flex;
     justify-content: space-evenly;
-    border-radius: 3px;    
+    border-radius: 3px;
+    padding: 10px;    
  }
  h1{
     font-family: 'Courier New', Courier, monospace;
